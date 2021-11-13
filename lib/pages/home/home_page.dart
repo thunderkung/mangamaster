@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
     // },
     {
       'icon': Icons.star,
-      'title': 'Update',
+      'title': 'MangaMaster',
       'page': MangaListPage(),
     },
   ];
